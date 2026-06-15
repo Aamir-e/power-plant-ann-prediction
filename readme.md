@@ -48,5 +48,5 @@ The model successfully generalized the data with high predictive accuracy, demon
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Aamir-e/power-plant-ann-prediction.git](https://github.com/Aamir-e/power-plant-ann-prediction.git)
+   git clone https://github.com/Aamir-e/power-plant-ann-prediction.git
    cd power-plant-ann-prediction
